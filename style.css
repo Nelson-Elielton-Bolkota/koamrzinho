@@ -32,3 +32,6 @@ ul{
 button:hover {
     background-color: rgb(255, 0, 200);
 }
+p::first-letter{
+    font-size: 30px;
+}
