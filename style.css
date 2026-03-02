@@ -29,3 +29,6 @@ ul{
     .importante{
         color: red;}
 }
+button:hover {
+    background-color: rgb(255, 0, 200);
+}
