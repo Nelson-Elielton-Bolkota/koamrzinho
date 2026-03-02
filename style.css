@@ -21,3 +21,7 @@ p {
 #titulo-principal{
     color: blue;
 }
+ul{
+    .importante{
+        color: red;}
+}
