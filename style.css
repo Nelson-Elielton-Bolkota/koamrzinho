@@ -38,3 +38,11 @@ p::first-letter{
 #lista li:first-child{
     font-weight: bold;
 }
+div > p{
+    color: green;
+    
+}
+.container > div > p {
+    color: red;
+}
+
