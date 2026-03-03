@@ -35,3 +35,6 @@ button:hover {
 p::first-letter{
     font-size: 30px;
 }
+#lista li:first-child{
+    font-weight: bold;
+}
